@@ -18,7 +18,7 @@
 		"url": "https://github.com/al3xback/fmentor-article-preview-js-procedural/issues"
 	},
 	"homepage": "https://github.com/al3xback/fmentor-article-preview-js-procedural#readme",
-  	"devDependencies": {
+	"devDependencies": {
 		"prettier": "^2.8.8",
 		"sass": "^1.62.1"
 	}
