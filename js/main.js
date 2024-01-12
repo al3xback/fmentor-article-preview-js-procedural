@@ -10,6 +10,8 @@ const createCardEl = () => {
 	cardImageInnerEl.className = 'card__image-inner';
 
 	const cardImageEl = document.createElement('img');
+	cardImageEl.width = 280;
+	cardImageEl.height = 278;
 	cardImageEl.src = './images/drawers.jpg';
 	cardImageEl.alt = '';
 
