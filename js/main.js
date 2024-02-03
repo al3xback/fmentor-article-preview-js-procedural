@@ -13,7 +13,7 @@ const createCardEl = () => {
 	cardImageEl.width = 280;
 	cardImageEl.height = 278;
 	cardImageEl.src = './images/drawers.jpg';
-	cardImageEl.alt = '';
+	cardImageEl.alt = 'Drawers';
 
 	cardImageInnerEl.appendChild(cardImageEl);
 
